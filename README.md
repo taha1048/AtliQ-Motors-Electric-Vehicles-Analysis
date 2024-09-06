@@ -55,7 +55,7 @@ so, these files might seem unorganized, however i'll keep them, consider them dr
 2. Makers Dataset [here](https://github.com/taha1048/AtliQ-Motors-Electric-Vehicles-Analysis/blob/main/Makers.ipynb)
 
 # Step 3: Data Preprocessing
-The data was clean I had nothing to do with it except for creating the Fiscal Calendar and here is the data model :
+The data was clean I had nothing to do with it except for creating the Fiscal Calendar table and here is the data model :
 
 ![data model](https://github.com/user-attachments/assets/bafe16ca-b47a-47aa-bfe5-f5e47feeba0e)
 
@@ -69,9 +69,32 @@ These questions are triggers to help me open my eye and delve deeper in the data
 - who is leading the market?
 - who did well over the years and who didn't?
 - who is growing faster than the others?
-- customer preferences? 
+- describe customer preferences
 
 # Step 5: Analyzing The data with Power BI
-I build 3 reports
-1. States
+### 1. Market 
+
+A bird view of the industry to monitor total numbers and general trends, you can also manipulate it with filters to meat a specific situation
+
+![market](https://github.com/user-attachments/assets/926a4c77-6d89-4ac5-b05b-87d1bcd6f742)
+
+### 2. States
+- The top left section (table): helps in sorting states by different metrics
+- The top right (2 h-bar charts): compares between them in Market share (% of sales to the total of the whole market) and measures thier growth in the last fiscal year (2023-2024)
+- The lower half: After comparing between them you can choose a specific state to get a closer look at it individually
+
+![states](https://github.com/user-attachments/assets/0a22fcd6-e4d7-4045-a882-9bef8cd9a391)
+
+### 3. Makers 
+It's divided into 2 sections one for every vehicle category (4 or 2 wheelers) as each one is a different market
+
+![makers](https://github.com/user-attachments/assets/f0ee5551-425e-45b7-b566-8701e505e781)
+
+# Step 6: Additional Research
+To optimize it more i collected some relative data (manually) that might be considered in prioritizing the results like:
+- GDP for States
+- Population
+- Area
+- List prices
+- Best models for each maker
 
