@@ -48,4 +48,8 @@ https://youtu.be/n27NLTeqxUQ?feature=shared
 
 # Step 2 : Exploring The Data 
 ### Note 
-"These files might seem unorganized as they are intial, at the begining I intended to do all the project with python, but i found it more effective to go with Power BI so, i switched to it, however i'll keep these files, consider them drafts"
+"At the begining I intended to do all the project with python, but i found it more effective to go with Power BI so, i switched to it,
+so, these files might seem unorganized, however i'll keep them, consider them drafts"
+
+1. States Dataset [here](https://github.com/taha1048/AtliQ-Motors-Electric-Vehicles-Analysis/blob/main/States.ipynb)
+2. Makers Dataset [here](https://github.com/taha1048/AtliQ-Motors-Electric-Vehicles-Analysis/blob/main/Makers.ipynb)
