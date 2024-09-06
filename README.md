@@ -55,7 +55,8 @@ These questions are triggers to help me open my eye and delve deeper in the data
 - who is growing faster than the others?
 - describe customer preferences
 
-# Step 5: Analyzing The data with Power BI (you can download the file from here)
+# Step 5: Analyzing The data with Power BI
+(you can download the file from [here](https://github.com/taha1048/AtliQ-Motors-Electric-Vehicles-Analysis/blob/main/Final%20Dashboard.pbix))
 ### 1. Market 
 
 A bird view of the industry to monitor total numbers and general trends, you can also manipulate it with filters to meet a specific situation
@@ -83,6 +84,6 @@ To optimize it more i collected some relative data (manually) that might be cons
 - Best models for each maker
 
 # Final Output
-
+20 slides showing the results. check it [here](https://github.com/taha1048/AtliQ-Motors-Electric-Vehicles-Analysis/blob/main/final%20pdf.pdf)
 
 
