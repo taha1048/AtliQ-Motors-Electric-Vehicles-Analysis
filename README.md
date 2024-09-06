@@ -31,7 +31,7 @@ We have three files
 
 
 
-# Step 1 : Searching The domain
+# Step 1: Searching The domain
 1. Articles
    
 https://about.crunchbase.com/guide/what-is-market-research/
@@ -46,10 +46,32 @@ https://youtu.be/b-hDg7699S0?feature=shared
 
 https://youtu.be/n27NLTeqxUQ?feature=shared
 
-# Step 2 : Exploring The Data 
+# Step 2: Exploring The Data 
 ### Note 
 "At the begining I intended to do all the project with python, but i found it more effective to go with Power BI so, i switched to it,
 so, these files might seem unorganized, however i'll keep them, consider them drafts"
 
 1. States Dataset [here](https://github.com/taha1048/AtliQ-Motors-Electric-Vehicles-Analysis/blob/main/States.ipynb)
 2. Makers Dataset [here](https://github.com/taha1048/AtliQ-Motors-Electric-Vehicles-Analysis/blob/main/Makers.ipynb)
+
+# Step 3: Data Preprocessing
+The data was clean I had nothing to do with it except for creating the Fiscal Calendar and here is the data model :
+
+![data model](https://github.com/user-attachments/assets/bafe16ca-b47a-47aa-bfe5-f5e47feeba0e)
+
+# Step 4: Asking Questions (Draft)
+These questions are triggers to help me open my eye and delve deeper in the data
+
+- What is the Market's current state? What does the trend look like?
+- Where are the opportunities?
+- When should we release our models?
+- who are the competitors?
+- who is leading the market?
+- who did well over the years and who didn't?
+- who is growing faster than the others?
+- customer preferences? 
+
+# Step 5: Analyzing The data with Power BI
+I build 3 reports
+1. States
+
